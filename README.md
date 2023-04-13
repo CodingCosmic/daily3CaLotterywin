@@ -3,8 +3,9 @@
 A simple Python implementation of the Daily3 lottery game where users can pick 3 numbers between 0-9 and choose a playstyle (straight, box, or straight/box).
 
 ## Usage
-
-Run the Python script `daily3pre.py`:
+$ git clone https://github.com/CodingCosmic/daily3CaLotterywin
+$ cd daily3CaLotterywin
+Run the Python script `daily3pre.py`:lottery3.py   
 
 ```bash
 python daily3pre.py
@@ -18,4 +19,4 @@ Run the python script  "lottery3.py"
 
 
 if script does not run you mustv install the random library to do this simply type in terminal "pip install random"
- and once it installs retry to execute the lottery3.py command and prompt of the game seqiuence shall display on the termional follow instruuctions on the prompt to play its very straight forward any issues contact my github @codingcosmic have fun and stay safe use responsibly to help simulate your choices and odds at this will release an updated version with new features powerball and daily 4 and fantasy 5 will be coming up necxt keep an etye oit much love to all you beautiful people 
+ and once it installs retry to execute the lottery3.py command and prompt of the game seqiuence shall display on the termional follow instruuctions on the prompt to play its very straight forward any issues contact my github @codingcosmic have fun and stay safe use responsibly to help simulate your choices and odds at this will release an updated version with new features powerball and daily 4 and fantasy 5 will be coming up necxt keep an etye oit much love to all you beautiful people ![Web capture_13-4-2023_33956_codingcosmic-laughing-space-chainsaw-w6jv5wx94v73vvq7 github dev](https://user-images.githubusercontent.com/123329604/231895370-62768d90-d375-466c-8da2-ae818992515d.jpeg)
