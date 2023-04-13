@@ -1,0 +1,11 @@
+Proprietary License for [lottery3.py,daily3pre.py]
+
+Copyright (c) [2023] [Hernan Hernandez-Napoles] (Developer Name:codingcosmic)
+
+All rights reserved.
+
+This software and associated documentation files (the "Software") may only be used or distributed with the express written permission of the copyright holder. Any unauthorized use, copying, modification, distribution, or sublicensing is strictly prohibited.
+
+By purchasing this software, you agree to the terms of this license. No rights are granted beyond the scope of this license. The copyright holder reserves the right to revoke this license at any time.
+
+For solicitation or inquiries related to this license, please contact the copyright holder at codingqubitcosmic@gmail.com for any questions or to purchase rights to use outside of the normasl standard rights of usage or to modify and add on to the code contact me for discussion of any modifications or requests feel free to send in feedback on the github you can contact me on there at codingcosmic@github
